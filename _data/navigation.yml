@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "200 км"
-    url: "/track/dvesti/"
+    url: "/design/dvesti/"
   - title: "300 км"
     url: "/track/300/"
   - title: "400 км"
