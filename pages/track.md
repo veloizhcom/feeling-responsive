@@ -7,6 +7,15 @@ teaser: "This step-by-step guide helps you to customize Feeling Responsive to yo
 header: no
 permalink: "/track/"
 ---
+
+<ul>
+    {% for post in site.categories.track %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
+
+
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
 1. Open `_data/socialmedia.yml` and add your own social media links.
