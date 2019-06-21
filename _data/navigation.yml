@@ -3,19 +3,19 @@
   side: left
 
 - title: "Маршруты"
-  url: "/tack/"
+  url: "/track/"
   side: left
   dropdown:
   - title: "200 км"
-    url: "/tack/200/"
+    url: "/track/200/"
   - title: "300 км"
-    url: "/tack/300/"
+    url: "/track/300/"
   - title: "400 км"
-    url: "/tack/400/"
+    url: "/track/400/"
   - title: "600 км"
-    url: "/tack/600/"
+    url: "/track/600/"
   - title: "> 600 км"
-    url: "/tack/over/"
+    url: "/track/over/"
 
 - title: Getting Startend
   url: "/getting-started/"
