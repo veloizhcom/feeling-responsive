@@ -6,7 +6,7 @@
   url: "/track/"
   side: left
   dropdown:
-  - title: "200 км"
+  - title: "двести км"
     url: "/design/dvesti/"
   - title: "300 км"
     url: "/track/300/"
