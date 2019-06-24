@@ -25,10 +25,6 @@
   - title: "> 600 км"
     url: "/track/1000/"
 
-- title: Get St
-  url: "/getting-started/"
-  side: left
-
 - title: "Templates"
   url: "/design/"
   side: left
