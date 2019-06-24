@@ -42,10 +42,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Поиск"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Контакты"
   url: "/contact/"
   side: right
