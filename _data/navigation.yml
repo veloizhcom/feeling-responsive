@@ -6,9 +6,9 @@
   url: "/calendar/"
   side: left
   dropdown:
-  - title: "2019 год"
+  - title: "2019"
     url: "/calendar/2019/"
-  - title: "2018 год"
+  - title: "2018"
     url: "/calendar/2018/"
   
 - title: "Маршруты"
