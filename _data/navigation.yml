@@ -6,9 +6,9 @@
   url: "/calendar/"
   side: left
   - title: "2019 год"
-    url: "/track/2019/"
+    url: "/calendar/2019/"
   - title: "2018 год"
-    url: "/track/2018/"
+    url: "/calendar/2018/"
   
 - title: "Маршруты"
   url: "/track/"
@@ -25,7 +25,7 @@
   - title: "> 600 км"
     url: "/track/1000/"
 
-- title: Getting Startend
+- title: Get St
   url: "/getting-started/"
   side: left
 
