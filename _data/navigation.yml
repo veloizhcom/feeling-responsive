@@ -15,7 +15,7 @@
   - title: "600 км"
     url: "/track/600/"
   - title: "> 600 км"
-    url: "/track/over/"
+    url: "/track/>600/"
 
 - title: Getting Startend
   url: "/getting-started/"
