@@ -42,7 +42,7 @@ urlimg: 'https://veloizhcom.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: 'https://veloizhcom.github.io/images/logo.png'
+logo: "logo.png"
 
 # Plugins
 plugins:
