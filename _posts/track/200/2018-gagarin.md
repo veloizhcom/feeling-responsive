@@ -5,9 +5,7 @@ title:  "200 км"
 teaser: "Create powerful multi-device layouts quickly and easily with the 12-column, nest-able Foundation grid. To optimize the size of your images, you find the correct dimensions beneath. Further below you find the <a href='#color-scheme-and-colors-codes'>colorscheme and colors</a> used for <em>Feeling Responsive</em> and their color codes."
 header: no
 permalink: "/track/200/gagarin/"
-
-
-
+---
 Трек маршрута
 
 <iframe class="gpsies" src="//www.gpsies.com/mapOnly.do?fileId=jwbkuokeeowddvqc" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
