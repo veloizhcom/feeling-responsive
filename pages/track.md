@@ -2,23 +2,13 @@
 layout: page
 show_meta: false
 title: "Маршруты бреветов"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+subheadline: "Клуба *Ижевск* ACP 511062"
+teaser: "Выдержка из правил организации бреветов."
 header: no
 permalink: "/track/"
 ---
-1. Open `_config.yml` and work it through, it's well documented
-1. Add your own `logo.png` to `/assets/img/`.
-1. Open `_data/socialmedia.yml` and add your own social media links.
-1. Open `_data/navigation.yml` and customize your navigation.
-1. Open `_data/language.yml` and translate the theme if necessary.
-1. Open `_data/services.yml` and customize links in the footer.
-1. Open `_data/network.yml` and customize links in the footer.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-1. Make it yours and add your own content.
+Выбор маршрута оставлен организатору; однако, запрещены маршруты, состоящие из прохождения одной и той же петли несколько раз, независимо от расстояния бревета. В идеале, маршруты должны проходить по дорогам с малым движением, а также по дорогам, по которым легко следовать без дополнительных средств ориентирования. Для ночных поездок дороги должны выбираться особенно тщательно (дорожная разметка, качественное покрытие). Необходимо избежать промежуточных перевалов вблизи от финишного КП, чтобы поддержать дух путешествия и минимизировать сходы. Также необходимо отдельно отмечать участки со сложным ландшафтом во время объявления маршрута. При выборе даты и места проведения бревета необходимо учесть возможные погодные условия и по возможности избегать таких неблагоприятных условий, как снег или особенно низкие или высокие температуры.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+[200 км][1]
 
-
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+ [1]: {{ site.url }}{{ site.baseurl }}/track/200/
