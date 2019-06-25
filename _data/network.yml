@@ -1,6 +1,6 @@
 - menu_name: "Полезные ссылки"
 
-- name: "Рандоннёры России"
+- name: "Сайт Рандоннёры России"
   url: "http://www.russianrandonneur.ru/"
   class: "sitemap-link"
   title: "Рандоннёры России"
@@ -8,4 +8,4 @@
 - name: "Страница клуба в VK"
   url: "https://vk.com/rk_izhevsk"
   class: "sitemap-link"
-  title: "BСтраница клуба в VK"
+  title: "Страница клуба в VK"
