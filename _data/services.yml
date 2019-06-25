@@ -2,7 +2,7 @@
 
 - name: "Контакты"
   url: "/contact/"
-  title: "Contact"
+  title: "Контакты"
 
 # - name: "RSS"
 #   url: "/feed.xml"
