@@ -1,9 +1,9 @@
-- menu_name: "Dankeschön"
+- menu_name: "Полезные ссылки"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+- name: "Рандоннёры России"
+  url: "http://www.russianrandonneur.ru/"
+  class: "sitemap-link"
+  title: "Рандоннёры России"
 
 - name: "Built on Foundation"
   url: "http://foundation.zurb.com/"
