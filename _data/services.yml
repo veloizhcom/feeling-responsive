@@ -1,4 +1,4 @@
-- menu_name: "Сервис"
+- menu_name: "Дополнительно"
 
 - name: "Contact"
   url: "/contact/"
