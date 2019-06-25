@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Маршруты бреветов"
-subheadline: "Клуба *Ижевск* ACP 511062"
+subheadline: "Клуб *Ижевск* ACP 511062"
 teaser: "Выдержка из правил организации бреветов."
 header: no
 permalink: "/track/"
