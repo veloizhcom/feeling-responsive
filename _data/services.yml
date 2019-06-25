@@ -1,6 +1,6 @@
 - menu_name: "Дополнительно"
 
-- name: "Contact"
+- name: "Контакты"
   url: "/contact/"
   title: "Contact"
 
