@@ -2,7 +2,7 @@
 layout: page
 title: "О клубе"
 subheadline: "Клуб основан в 2018 году"
-teaser: ""
+teaser: "Ijevsk"
 permalink: "/info/"
 header: no
 ---
