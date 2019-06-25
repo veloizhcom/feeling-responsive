@@ -2,10 +2,11 @@
 layout: page
 title: "О клубе"
 subheadline: "Клуб основан в 2018 году"
+teaser: ""
 permalink: "/info/"
 header: no
 ---
-Велоклуб ["Ижевск"][1] организует и проводит в Удмуртской Республике бреветы по правилам Audax Club Parisien. Входит в Общество Российских Велотуристов-Марафонцев. Код ACP 511062.
+Велоклуб ["Ижевск"][1] организует и [проводит][2] в Удмуртской Республике бреветы по правилам Audax Club Parisien. Входит в Общество Российских Велотуристов-Марафонцев. Код ACP 511062.
 
 ## Что такое БРЕВЕТ?
  
@@ -29,22 +30,4 @@ Yours sincerelly, [Moritz »mo.« Sauer][7]
 
 
  [1]: https://vk.com/rk_izhevsk
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+ [2]: {{ site.url }}/calendar/
