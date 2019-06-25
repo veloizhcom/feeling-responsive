@@ -16,18 +16,5 @@ header: no
 Все организации, которые проводят бреветы официально, подчиняются клубу Audax Club Parisien. Только этот клуб может подтверждать результаты участников и выдает разрешение на получение медали, к которой обязательно прикладывается бревет-документ. В бреветах в отличие от соревнований нет ни первого, ни последнего места. Все участники, которые уложились во время прохождения бревета, считаются победителями. Особой наградой является медаль суперрандоннера. Ей награждают велосипедиста, который в течение одного сезона преодолел бреветы протяженностью 200, 300, 400, 600 км.
 Самым известным и массовым, своеобразным "Маршальским жезлом" в ранце рандоннера является проводимый раз в четыре года супервеломарафон Париж-Брест-Париж на дистанции 1200 км за 90 часов.
 
-
-
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
  [1]: https://vk.com/rk_izhevsk
  [2]: {{ site.url }}/calendar/
