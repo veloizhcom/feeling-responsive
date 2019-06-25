@@ -6,7 +6,7 @@ teaser: "Чем мы занимаемся"
 permalink: "/info/"
 header: no
 ---
-...and learn at the same time.
+Велоклуб ["Ижевск"][1] организует и проводит в Удмуртской Республике бреветы по правилам Audax Club Parisien. Входит в Общество Российских Велотуристов-Марафонцев. Код ACP 511062.
 
  ## Что такое БРЕВЕТ?
 Формально бреветы не являются спортивными состязаниями на результат. Считается, что основную победу человек совершает над собой.
@@ -28,7 +28,7 @@ Please make *Feeling Responsive* yours and if you like it, please link back to m
 Yours sincerelly, [Moritz »mo.« Sauer][7]
 
 
- [1]: http://mademistakes.com/about/
+ [1]: https://vk.com/rk_izhevsk
  [2]: http://mademistakes.com/work/jekyll-themes/
  [3]: http://automattic.com/
  [4]: http://alistapart.com/
