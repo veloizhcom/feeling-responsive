@@ -11,4 +11,4 @@ permalink: "/calendar/"
 
 [2018 км][1] год: 5 бреветов 2х200 км и 1Х300, 400, 600 км.
 
- [1]: {{ site.url }}{{ site.baseurl }}/calend/2018/
+ [1]: {{ site.url }}{{ site.baseurl }}/calendar/2018/
